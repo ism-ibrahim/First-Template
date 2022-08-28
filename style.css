@@ -1,0 +1,435 @@
+body {
+  font-family: 'Dosis', sans-serif;
+  font-weight: 500;
+}
+
+.imgbox img {
+  width: 100%;
+}
+
+#wecare {
+  padding: 40px 0;
+}
+
+#wecare .textbox h1 {
+  font-weight: 700;
+  font-size: 60px;
+  margin: 0 0 10px;
+}
+
+#wecare .textbox h4 {
+  color: #a8a8a8;
+  font-weight: 100;
+  font-size: 24px;
+}
+
+#wecare .imgbox {
+  width: 500px;
+}
+
+#welcome {
+  padding: 40px 0;
+}
+
+#welcome .textbox {
+  padding: 80px;
+}
+
+#welcome .textbox i {
+  font-size: 30px;
+  color: #8f8686;
+  margin: 10px 0;
+}
+
+#welcome .textbox h1 {
+  font-weight: 700;
+  font-size: 30px;
+}
+
+#welcome .textbox h3, #welcome .textbox h6 {
+  color: #868686;
+  margin: 20px 0 40px;
+  font-size: 20px;
+}
+
+#welcome .textbox h2, #welcome .textbox h6 {
+  margin: 15px 0;
+}
+
+#welcome .textbox h2 {
+  font-size: 33px;
+}
+
+#welcome .textbox h6 {
+  font-size: 18px;
+}
+
+#welcome .textbox .btn {
+  padding: 10px 30px;
+  border-radius: 20px;
+  background-color: #a7b59f;
+  color: #ffff;
+}
+
+#welcome .wid {
+  width: 580px;
+  padding: 0;
+}
+
+#welcome .txtright {
+  text-align: right;
+}
+
+#aboutus {
+  padding: 40px 0;
+}
+
+#aboutus .textbox {
+  padding: 0 100px;
+}
+
+#aboutus .textbox h1 {
+  font-weight: 700;
+  font-size: 35px;
+}
+
+#aboutus .textbox h3, #aboutus .textbox p {
+  color: #a8a8a8;
+  font-weight: 100;
+  font-size: 20px;
+  margin: 20px 0 0;
+  line-height: 1.6;
+}
+
+#aboutus .textbox p {
+  font-size: 18px;
+  color: #949494;
+  line-height: 1.4;
+}
+
+#aboutus .textbox li {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 20px 0 0 0;
+}
+
+#aboutus .textbox .icon {
+  padding: 0 15px 0 0;
+  color: #5e5656;
+}
+
+#aboutus .textbox h4 {
+  font-size: 20px;
+  color: #949494;
+}
+
+#aboutus .imgbox {
+  width: 450px;
+}
+
+#aboutus .bigicon i {
+  font-size: 30px;
+  color: #8f8686;
+  margin: 0 0 20px 20px;
+}
+
+#ourtrainers {
+  padding: 40px 0;
+}
+
+#ourtrainers .bigicon i {
+  font-size: 30px;
+  color: #8f8686;
+  margin: 10px 0;
+}
+
+#ourtrainers h1 {
+  font-weight: 700;
+  font-size: 38px;
+  padding: 0px 15px;
+}
+
+#ourtrainers h3, #ourtrainers h4 {
+  font-weight: 300;
+  font-size: 20px;
+  color: #a8a8a8;
+  margin: 20px 0;
+  line-height: 1.4;
+}
+
+#ourtrainers .box {
+  margin: 0 5px;
+}
+
+#ourtrainers .box .textbox {
+  padding: 15px;
+}
+
+#ourtrainers .box .textbox h2 {
+  font-weight: 300;
+  font-size: 25px;
+  padding: 20px 0 0;
+}
+
+#ourtrainers .box .textbox ul {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+}
+
+#ourtrainers .box .textbox ul li {
+  margin: 0 10px;
+  background-color: #d4cece;
+  border-radius: 50%;
+  padding: 20px;
+  width: 10px;
+  height: 10px;
+}
+
+#ourtrainers .box .textbox ul li .icon {
+  margin: -7px;
+}
+
+#ourtrainers .wid {
+  width: 580px;
+}
+
+#pricing {
+  padding: 40px 0;
+}
+
+#pricing .textbox {
+  width: 580px;
+  text-align: center;
+}
+
+#pricing .textbox i {
+  font-size: 30px;
+  color: #8f8686;
+  margin: 10px 0;
+}
+
+#pricing .textbox h1 {
+  font-weight: 700;
+  font-size: 35px;
+}
+
+#pricing .textbox h5 {
+  font-weight: 200;
+  font-size: 20px;
+  color: #000000;
+  margin: 20px 0 50px;
+}
+
+#pricing .box {
+  width: 340px;
+  color: #fff;
+  background-color: #708f97;
+  padding: 50px 30px;
+  text-align: center;
+}
+
+#pricing .box h2 {
+  font-size: 25px;
+}
+
+#pricing .box h3 {
+  font-size: 30px;
+  margin: 20px 0 0;
+}
+
+#pricing .box li {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin: 25px 0 0;
+}
+
+#pricing .box li h4 {
+  font-size: 18px;
+  margin: 0 0 0 10px;
+}
+
+#pricing .box .btn {
+  padding: 10px 35px;
+  margin: 30px 0 0;
+  border-radius: 30px;
+  background-color: #263133;
+  color: #fff;
+}
+
+#pricing .PREMIUM-color {
+  background-color: #263133;
+}
+
+#pricing .PREMIUM-color .btn {
+  background-color: #708f97;
+}
+
+#frequently {
+  padding: 40px 0;
+}
+
+#frequently .wid {
+  width: 580px;
+}
+
+#frequently h1 {
+  font-weight: 700;
+  font-size: 36px;
+  margin: 15px 0;
+}
+
+#frequently h3 {
+  font-size: 20px;
+  margin: 0 0 40px;
+  line-height: 1.4;
+}
+
+#frequently .textbox {
+  padding: 0 70px;
+}
+
+#frequently .textbox h2, #frequently .textbox h4 {
+  font-size: 25px;
+  margin: 0 0 0 10px;
+  color: #717171;
+}
+
+#frequently .textbox .minibox {
+  margin: 20px 0 0 0;
+}
+
+#frequently .textbox .minibox h2 {
+  margin: 0 0 0 10px;
+}
+
+#frequently .textbox p {
+  font-size: 20px;
+  margin: 30px 0 0 32px;
+  color: #949494;
+}
+
+#frequently .textbox li {
+  margin: 30px 0 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+#frequently .icon {
+  color: #d4cece;
+}
+
+#frequently .icon i {
+  font-size: 22px;
+}
+
+#frequently .bigicon i {
+  font-size: 30px;
+  color: #8f8686;
+}
+
+#dogger {
+  padding: 40px 0;
+}
+
+#dogger .box {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+#dogger .bigicon i {
+  font-size: 30px;
+  color: #8f8686;
+  margin: 10px 0;
+}
+
+#dogger h1 {
+  font-weight: 700;
+  font-size: 40px;
+}
+
+#dogger h3 {
+  font-size: 20px;
+  margin: 30px 0 60px;
+}
+
+#dogger .textbox {
+  margin: 0 0 0 20px;
+}
+
+#dogger .textbox h2 {
+  font-size: 22px;
+}
+
+#dogger .textbox h4 {
+  font-size: 18px;
+  color: #aba8a8;
+}
+
+#dogger .textbox p {
+  font-size: 18px;
+  color: #8f8686;
+}
+
+#dogger .textbox p, #dogger .textbox h4 {
+  margin: 20px 0 0;
+}
+
+#dogger .wid {
+  width: 580px;
+}
+
+#ourservices {
+  padding: 40px 0;
+}
+
+#ourservices .wid {
+  width: 580px;
+}
+
+#ourservices .bigicon i {
+  font-size: 30px;
+  color: #8f8686;
+  margin: 0 0 10px 0;
+}
+
+#ourservices h1 {
+  font-weight: 700;
+  font-size: 35px;
+}
+
+#ourservices h3 {
+  font-size: 20px;
+  color: #c6c6c6;
+  margin: 30px 0;
+}
+
+#ourservices .textbox {
+  padding: 30px 40px;
+}
+
+#ourservices .textbox h2 {
+  font-size: 25px;
+  color: #757575;
+  margin: 20px 0 0;
+}
+
+#ourservices .textbox h3 {
+  margin: 30px 0 0;
+}
+
+#ourservices .textbox .icon {
+  font-size: 60px;
+}
+/*# sourceMappingURL=style.css.map */
